@@ -4,7 +4,7 @@
 
 ## Description
 
-This project challenged me to refactor code that has already been written. I accomplished this by adding alt notes to images in the HTML file for accessibility. Id selectors were added to all of the body sections for better readability. There was a lot of redundant information in the CSS file, mainly the divs underneath the different body sections. I created new divs to cut down on the amount of repeated information. I also reformatted the CSS file to better follow HTML structure. I had a challenging time figuring out what could and couldn't be combined, and correct selector placement on the CSS file. I learned a lot about structuring and the importance of comments in my code.
+As a software developer, this project challenged me to refactor code that has already been written. I accomplished this by adding alt notes to images in the HTML file for accessibility. Id selectors were added to all of the body sections for better readability. There was a lot of redundant information in the CSS file, mainly the divs underneath the different body sections. I created new divs to cut down on the amount of repeated information. I also reformatted the CSS file to better follow HTML structure. I had a challenging time figuring out what could and couldn't be combined, and correct selector placement on the CSS file. I learned a lot about structuring and the importance of comments in my code.
 
 ## Installation
 
