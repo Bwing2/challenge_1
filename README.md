@@ -1,6 +1,6 @@
 # Horiseon Marketing Website Refactor Challenge 1
 
-[Live deploy link](https://bwing2.github.io/challenge_1/)
+[Live deploy link](https://bwing2.github.io/horiseon-marketing-agency-refactor-challenge-1/)
 
 ## Description
 
