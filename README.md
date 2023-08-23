@@ -21,6 +21,9 @@ This project challenged me to refactor code that has already been written. I acc
 
 Screenshots of Webpage 
 
+![First Half](assets/images/website-picture-1.png)
+![Second Half](assets/images/website-picture-2.png)
+
 ## License
 
 MIT License
